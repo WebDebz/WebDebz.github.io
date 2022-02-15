@@ -26,7 +26,7 @@ export default {
 }
 </script>
 <style>
-
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 html, body, #app, .application {
   font-family: 'Open Sans', sans-serif;
   background-color: #fff;
