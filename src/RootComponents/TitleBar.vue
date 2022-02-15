@@ -1,10 +1,12 @@
 <template>
   
     <div class="title-bar">
-  X    Life Application
+  
+       
+
+ Life Application
       </div>
      
-  
 
 </template>
 
